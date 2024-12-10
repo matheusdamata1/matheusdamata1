@@ -5,8 +5,16 @@
 
 ---
 
+## 📊 Estatísticas do GitHub:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
 ## 🌐 Conecte-se comigo:
-- Instagram: [@seu_usuario](https://instagram.com/@matheusdamata__)  
+- Instagram: [@matheusdamata__](https://instagram.com/@matheusdamata__)  
 
 ---
 
