@@ -3,8 +3,7 @@
 🎓 Estudante de Desenvolvimento de Sistemas no Ensino Médio Técnico.  
 💻 Apaixonado por tecnologia e em constante aprendizado.  
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?matheusdamata1=anuraghazra&show_icons=true&theme=transparent)
+---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdamata1&show_icons=true&theme=transparent)
 
 ---
 
